@@ -10,4 +10,4 @@ If a brand has a lot of reviews, it makes sense to infer that a lot of people bu
 we have Amazon review data for different cell phones and accessories that were purchased between the years 1996 and 2018. 
 
 
-Tableau Dashboard Link - https://public.tableau.com/app/profile/aishwarya.pradeep/viz/WebandSocialMediaAnalytics_16919223559490/Story1
+### Tableau Dashboard Link - https://public.tableau.com/app/profile/aishwarya.pradeep/viz/WebandSocialMediaAnalytics_16919223559490/Story1
