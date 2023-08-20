@@ -8,3 +8,6 @@ Our client may effectively create their advertising campaigns by emphasising the
 They can determine the price of their products by comparing their pricing to that of the competition and their market shares.
 If a brand has a lot of reviews, it makes sense to infer that a lot of people buy their phones. This will help companies gauge the market share of their competitors.
 we have Amazon review data for different cell phones and accessories that were purchased between the years 1996 and 2018. 
+
+
+Tableau Dshboard Link - https://public.tableau.com/app/profile/aishwarya.pradeep/viz/WebandSocialMediaAnalytics_16919223559490/Story1
